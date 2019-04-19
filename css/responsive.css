@@ -24,13 +24,16 @@
 		align-items: center;*/
 	}
 	.main-text__span {
+		font-size: 0.8rem;
+	}
+	.main-text__span {
 		font-size:1rem;
 	}
 	.main-text__title {
-		font-size: 1.2rem;
+		font-size: 1rem;
 	}
 	.main-text__desc {
-		font-size: 1.1rem;
+		font-size: 0.8rem;
 	}
 
 
