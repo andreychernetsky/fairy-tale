@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .main-text__span {
 	display: inline-block;
-	font-size: 1.2rem;
+	font-size: 0.9rem;
 	padding: 6px;
 	font-weight: 600;
 	z-index: 140;
@@ -133,12 +133,12 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ffffff;
 }
 
-.main-text__title {
+.main-text__title a {
 	color:#fff;
 }
 
 .main-text__desc {
-	font-size: 1rem;
+	font-size: 1.2rem;
 	color: white;
 	font-weight: bolder;
 
